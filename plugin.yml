@@ -1,0 +1,81 @@
+name: UHCVoltrix
+version: 2.0.0
+author: SoyCode_
+main: me.shir.uhcp.VenixUHC
+
+softdepend: [UHCBiomeChanger, WorldBorder, TwitterAPI]
+
+commands:
+  heal:
+  border:
+    aliases: [bordershrink, shrinkborder]
+  bestkillers:
+    aliases: [kt, killtop]
+  spectatorchat:
+    aliases: [specc, specchat, spc]
+  teleport:
+    aliases: [tele, tp, sp, spec, spectate]
+  rescatter:
+    aliases: [rs]
+  extrainventory:
+    aliases: [extrainv, ei]
+  backpack:
+    aliases: [bp, teaminv, teaminventory, backpacks]
+  scatter:
+    aliases: [latescatter, addalive]
+  createuhc:
+    aliases: [recreatemap, regenerate, newmap, newworld]
+  game:
+  ismapgenerated:
+    aliases: [isgenerated, ismapgenned, map]
+  moderator:
+    aliases: [mod, setmod]
+  host:
+    aliases: [sethost, gamehost]
+  health:
+    aliases: [h]
+  helpop:
+  killcount:
+    aliases: [kc]
+  list:
+    aliases: [who, staff, online]
+  respawn:
+  spectatorchat:
+  confirmstart:
+  startuhc:
+  uhcmanage:
+  settitle:
+  tweetapoyo:
+  clearcenter:
+  cambiarlenguajexdxdxd:
+  tweetgame:
+  freeze:
+    aliases: [ss, froze]
+  abusealerts:
+  pvpalerts:
+  playersinnether:
+  staffchat:
+  xalertsgui:
+  staffonlinegui:
+  xalerts:
+  stopuhc:
+  spectator:
+  board:
+  stats:
+    aliases: [statistics]
+  team:
+    aliases: [teams]
+  sendcoords:
+    aliases: [sc, sendcoords, pmcoords]
+  teamchat:
+    aliases: [tc]
+  teamlist:
+    aliases: [listteam, tl]
+  whitelist:
+    aliases: [wl]
+  config:
+  armour:
+  invsee:
+    aliases: [inv]
+  scenario:
+    aliases: [scenarios, explain]
