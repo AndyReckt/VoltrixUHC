@@ -1,6 +1,6 @@
 name: UHCVoltrix
 version: 2.0.0
-author: SoyCode_
+author: AxeelHeaven
 main: me.shir.uhcp.VenixUHC
 
 softdepend: [UHCBiomeChanger, WorldBorder, TwitterAPI]
